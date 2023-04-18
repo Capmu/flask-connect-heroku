@@ -9,6 +9,5 @@
     ```
     web: gunicorn app:app   
     ```
-    
     - **web**: web application
     - ...gunicorn **[main-file-name]**:app in this ex, we're using **app.py**
