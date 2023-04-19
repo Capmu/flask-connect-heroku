@@ -18,3 +18,6 @@
     - change directory to the repository
     - run `heroku create <new-app-name>` (create new app name in Heroku)
     - run `git push heroku <branch-name>` (to deploy the Flask app)
+
+### Note
+- run flask command : `flask --app app run`
